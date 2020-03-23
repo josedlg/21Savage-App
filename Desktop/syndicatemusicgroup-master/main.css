@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+#landingPage{
+    background-image: url(assets/homeBackGround.JPG);
+    width: 100vw;
+    height: 100vh; 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow-y: hidden;
+    
+
+}
+.navbar{
+    background: rgba(0,0,0,0.4);
+  }
+  nav
+  {
+  overflow: auto;
+  }
+
+#landingPage h1{
+    font-family: Impact;
+    color: white;
+    font-size: 4rem;
+    font: bold;
+    margin-top: 50vh;
+    
+}
+#landingPageArtist{
+    background-image: url(assets/artistBackgr.JPG);
+    width: 100vw;
+    height: 100vh; 
+=======
